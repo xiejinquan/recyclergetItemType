@@ -8,4 +8,4 @@ pulltoloadding下拉刷新，上拉加载更多
 
 ![](https://github.com/xiejinquan/recyclergetItemType/raw/master/app.gif)
 
-![](https://github.com/xiejinquan/pulltoloadding/raw/master/pulltoloadding.gif)
+![](https://github.com/xiejinquan/recyclergetItemType/raw/master/pulltoloadding.gif)
